@@ -1,0 +1,19 @@
+{
+  "name": "elsitiodelaspeliculas",
+  "version": "1.0.0",
+  "description": "Web application for movies with a API REST and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tempep/ElSitioDeLasPeliculas.git"
+  },
+  "author": "Fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tempep/ElSitioDeLasPeliculas/issues"
+  },
+  "homepage": "https://github.com/tempep/ElSitioDeLasPeliculas#readme"
+}
